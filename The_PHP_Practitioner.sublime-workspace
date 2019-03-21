@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"statement"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"co",
+				"completed"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"n",
+				"newInputValue"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"pad",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"g",
+				"gyvas"
+			],
+			[
+				"padd",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"paddle",
+				"paddle2Y"
+			],
+			[
+				"pa",
+				"paddle2Y"
+			],
+			[
+				"He",
+				"height"
+			],
+			[
+				"canvas",
+				"canvasContext"
+			],
+			[
+				"se",
+				"seselisSpalva"
+			],
+			[
+				"lini",
+				"linijasSpalva"
+			],
+			[
+				"ta",
+				"taskas1Y"
+			],
+			[
+				"tas",
+				"taskas1X"
+			],
+			[
+				"canv",
+				"canvasContext"
+			],
+			[
+				"con",
+				"canvasContext"
+			],
+			[
+				"can",
+				"canvasContext"
+			],
+			[
+				"cor",
+				"cordX"
+			],
+			[
+				"speedX",
+				"speedX"
+			],
+			[
+				"PAD",
+				"PADDLE_THICKNESS"
+			],
+			[
+				"PA",
+				"PADDLE_THICKNESS"
+			],
+			[
+				"P",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"p",
+				"paddle1Y"
+			],
+			[
+				"ba",
+				"ball"
+			],
+			[
+				"pr",
+				"time-previousFrameTime"
+			],
+			[
+				"mo",
+				"mousePos"
+			],
+			[
+				"mou",
+				"mouseY"
+			],
+			[
+				"cl",
+				"clentX"
+			],
+			[
+				"figu",
+				"figuruPiesimsCirc"
+			],
+			[
+				"cord",
+				"cordY"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"f",
+				"figuruPiesims"
+			],
+			[
+				"numbe",
+				"numbersGame"
+			],
+			[
+				"nm",
+				"numbersGame"
+			],
+			[
+				"num",
+				"numbersGame"
+			],
+			[
+				"nub",
+				"numbersGame"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"a",
+				"ats"
+			],
+			[
+				"d",
+				"dYears"
+			],
+			[
+				"fu",
+				"func"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"l",
+				"leftX"
+			],
+			[
+				"fill",
+				"fillRect"
+			],
+			[
+				"ca",
+				"canvasContext"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b",
+				"ballSpeedX"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"us",
+				"userAgeDays"
+			],
+			[
+				"u",
+				"userLastName"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"te",
+				"text-shadow\tproperty"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"btn",
+				"btn-xs"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"bord",
+				"border-left\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"innerText"
+			],
+			[
+				"Ge",
+				"getElementById"
+			],
+			[
+				"win",
+				"winner"
+			],
+			[
+				"che",
+				"checkRow"
+			],
+			[
+				"chec",
+				"checkForWinner"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ge",
+				"getbox"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"o",
+				"other"
+			],
+			[
+				"m",
+				"Male"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"F",
+				"FirstName"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/The_PHP_Practitioner/functions.php",
+		"/C/wamp64/www/The_PHP_Practitioner/index.view.php",
+		"/C/wamp64/www/The_PHP_Practitioner/connect.php",
+		"/C/wamp64/www/The_PHP_Practitioner/sudLygiai.php",
+		"/C/wamp64/www/The_PHP_Practitioner/index.php",
+		"/Z/Web projektai/JavaScript-PingPong/pong.html",
+		"/Z/WebGl/WebGl-test..html",
+		"/Z/WebGl/script.js",
+		"/C/Users/Deividas/Downloads/selector-exercise.html",
+		"/Z/The Web Developer Bootcamp/Javascript Basics Arrays/script.js",
+		"/Z/The Web Developer Bootcamp/Javascript Basics Arrays/list.html",
+		"/Z/The Web Developer Bootcamp/JavaScript basic control flow/script.js",
+		"/C/Users/Deividas/Desktop/Siauriukas train click-tag/siauriukas-trauk-300x600-v2/siauriukas-trauk-300x600.html",
+		"/C/Users/Deividas/Desktop/Siauriukas train click-tag/siauriukas-trauk-250x500-v2/siauriukas-trauk-300x600.html",
+		"/C/Users/Deividas/Desktop/first_file.txt",
+		"/Z/Web projektai/Tic Tac Toe 2-players/main.js",
+		"/Z/Web projektai/Tic Tac Toe 2-players/main.html",
+		"/Z/LinkedIn/Git Essential Training/Ex_Files_GIT_EssT/FAQs.txt",
+		"/Z/The Web Developer Bootcamp/JavaScript basic control flow/index.html",
+		"/Z/The Web Developer Bootcamp/Introduction to JavaScript/script.js",
+		"/Z/The Web Developer Bootcamp/Introduction to JavaScript/index.html",
+		"/C/Users/Deividas/Desktop/Monster/Banner24-60-fps-test/kamuolys-24.html",
+		"/Z/Web projektai/JavaScript-PingPong/code.js",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/basic-grid.html",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/basic.html",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/gallery.html",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/purrfectMatch.html",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/purrMatchCss/purrMatch.css",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/galleryCss/gallery.css",
+		"/Z/The Web Developer Bootcamp/Bootsrap 3/Bootsrap tutorial/css/bootstrap.css",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/Box-model/04_Box_Model/style.css",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/Box-model/04_Box_Model/boxmodel.html",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/Image galler Code along/photoGrid.html",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/Simple blog/blog.html",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/Simple blog/blog.css",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/Image galler Code along/photos.css",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/formAssigment.html",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/specificity.html",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/form.html",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/09-Selector-Exercise-Starter/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/Deividas/Desktop/Monster/Banner24-60-fps-test/kamuolys-60.html",
+		"/Z/The Web Developer Bootcamp/Intermediate CSS/google-fonts.html",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/Pokemondata/pokemondata.txt",
+		"/Z/The Web Developer Bootcamp/Introduction to Html/page2.html",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/DropdownsAndRadioButtons.html",
+		"/Z/The Web Developer Bootcamp/Intermediate HTML/PokemonTable.html",
+		"/Z/Program Files/TeamSpeak 3 Client/ts3client_win64.exe"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "The_PHP_Practitioner.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
