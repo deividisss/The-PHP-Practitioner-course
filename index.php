@@ -1,76 +1,20 @@
 <?php
 
 
-$query = require 'bootstrap.php';
-require 'functions.php';
-//require 'connect.php';
-require 'sudLygiai.php';
+require 'core/bootstrap.php';
 
-$sud_lygiai = $query->selectAll('sudetingumo_lygiai', 'SudLygiai');
+// $router = new Router;
 
-// dd($sud_lygiai);
+// require 'routes.php';
 
-
-
-class Task {
-
-	public $description;
-	public $completed = false;
-
-	public function __construct($description){
-		$this->description = $description;
-	}
-
-	public function complete() {
-		$this->completed = true;
-
-	}
-
-	public function isComplete(){
-		return $this->completed;
-	}
-}
-
-$tasks = [
-
-	'uzduotis1' =>new Task('Go to the store'),
-	'uzduotis2' =>new Task('Finish my screencast'),
-	'uzduotis3' =>new Task('Clean my room'),
-
-];
-
-$tasks['uzduotis2']->complete();
-
-// $task = new Task('Go to store');
-// $task->complete();
-
-//dd($tasks);
+//methods chaining
+require Router::load('routes.php')
+	->direct(Request::uri());
 
 
-$greeting = 'Hello World';
-
-$person = [
-
-	'age' =>31,
-	'hair' =>'brown',
-	'career' => 'web developer',
-	'name' => 'John'
-];
-$person['gender'] = 'Male';
-
-$task = [
-
-	'title' => 'Finish home work',
-	'due' => 'today',
-	'assigned_to' => 'Jefffrey',
-	'completed' => false,
-	'important' => true
-];
+//php -S localhost:8887
 
 
-$animals = ['dog', 'cat'];
+// For people that uses wamp, the routing does not work because it adds extra artifacts to the link: 'foldername/index/contact', so you need to add extra 'index' in the routes.php like this: 'index' => 'controllers/index.php', 'index/about' => 'controllers/about.php',..etc and of course change the view links in index.view.php like this "/foldername/index/about" .The last thing you need to change is the way it gets the link, by removing part of it with substr() so it gets only the "index/about" part. substr takes 2 parameters the values and the number of characters you want to remove: $char = substr($_SERVER['REQUEST_URI'], 6); return $uri = rtrim($char, '/'); I didn't manage to make wamp remove the 'index' so I added it in the code to make it work. Good luck.
 
-//dd($task);
-
-require 'index.view.php';
 
